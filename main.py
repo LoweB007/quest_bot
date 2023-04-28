@@ -18,7 +18,7 @@ import os
 
 
 # Объект бота
-bot = Bot(token="1682510407:AAGqeOlhiO_qWmPCUFc90Lr7CLllTh5Vh6Q")
+bot = Bot(token="")
 
 # Диспетчер для бота
 dp = Dispatcher(bot)
